@@ -154,7 +154,7 @@ const icons = {
     "核反应堆": "slimefun/nuclear_reactor",
     "旋风护身符": "",
     "多功能工具-IV": "slimefun/steel_multi_tool",
-    "附魔台": "minecraft/enchanting_table_top",
+    "附魔台": "minecraft/enchanting_table_side",
     "践踏者之靴": "",
     "碳压机": "slimefun/carbon_press",
     "末影背包": "",
